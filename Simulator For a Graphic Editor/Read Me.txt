@@ -1,0 +1,28 @@
+Author: Saud Saldulkar
+Email: saud28@hotmail.com
+
+-------------------------------------------------------------
+
+To run the program: go in folder(grapheditor) and run(grapheditor.exe)
+
+-------------------------------------------------------------
+
+if you get an error it may be due the following missing DLL's:
+
+
+   OLEAUT32.dll - C:\windows\system32\OLEAUT32.dll
+   USER32.dll - C:\windows\system32\USER32.dll
+   IMM32.dll - C:\windows\system32\IMM32.dll
+   SHELL32.dll - C:\windows\system32\SHELL32.dll
+   ole32.dll - C:\windows\system32\ole32.dll
+   COMDLG32.dll - C:\windows\system32\COMDLG32.dll
+   COMCTL32.dll - C:\windows\system32\COMCTL32.dll
+   ADVAPI32.dll - C:\windows\system32\ADVAPI32.dll
+   msvcrt.dll - C:\windows\system32\msvcrt.dll
+   WS2_32.dll - C:\windows\system32\WS2_32.dll
+   GDI32.dll - C:\windows\system32\GDI32.dll
+   fftpack_lite.pyd - C:\Program Files\Python\lib\site-packages\numpy\fft\fftpac
+k_lite.pyd
+   VERSION.dll - C:\windows\system32\VERSION.dll
+   KERNEL32.dll - C:\windows\system32\KERNEL32.dll
+-------------------------------------------------------------
